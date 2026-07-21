@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckseth" alt="ckseth" /></a> </p>
 
-- 🌱 I’m currently learning **MCA at Chandigarh University**
+- 🌱 I’m currently pursuing **MCA at Chandigarh University**
 
 - 📫 How to reach me **kumarichhavi60@gmail.com**
 
