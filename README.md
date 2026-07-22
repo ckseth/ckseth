@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing **MCA at Chandigarh University**
 
-- 📫 Email to reach me **kumarichhavi60@gmail.com**
+- 📫 want to reach me **kumarichhavi60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
