@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chhavi Kumari</h1>
 
 <h3 align="center">
-Aspiring Full Stack Developer | MERN Stack Enthusiast | Passionate Problem Solver
+MERN Stack Developer
 </h3>
 
 <p align="center">
