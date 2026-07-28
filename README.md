@@ -99,7 +99,7 @@ A full-stack campus marketplace where students can **Buy, Sell, Rent & Exchange*
 ## 🗣️ Text-to-Speech Converter
 A responsive web application that converts written text into natural speech using the Web Speech API with support for multiple voices and languages.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:** Python,Matplotlib
 
 ---
 
