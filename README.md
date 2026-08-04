@@ -90,7 +90,7 @@ Passionate about building scalable web applications, solving real-world problems
 # 🚀 Featured Projects
 
 ## 🛒 CampusTrade
-A full-stack campus marketplace where students can **Buy, Sell, Rent & Exchange** products within a limited geographical range. Features include authentication, product listings, wishlist, chat, and location-based filtering.
+A full-stack student to student campus marketplace where students can **Buy, Sell, Rent & Exchange** products within a limited geographical range. Features include authentication, product listings, wishlist, chat, and location-based filtering.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB •bootstrap 
 
