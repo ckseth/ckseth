@@ -21,13 +21,24 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
+# 👩‍💻 Hi, I'm Chhavi Kumari
+
+### 💻 MCA Student | Full Stack Developer | Tech Enthusiast
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+at+Chandigarh+University;Full+Stack+Developer;MERN+Stack+Learner;Building+Ideas+into+Real+World+Projects+🚀" />
+</p>
+
+---
+
 # 👩‍💻 About Me
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at **Chandigarh University**
 - 🌱 Currently learning **MERN Stack, React.js, Node.js, Express.js & MongoDB**
 - 💻 Interested in **Full Stack Development, UI/UX Design, and Problem Solving**
 - 📚 Passionate about building practical projects and continuously learning new technologies
-- 📫 Reach me at **kumarichhavi60@gmail.com**
+- 🚀 I enjoy turning ideas into functional and user-friendly applications
+- 📫 Reach me at **[kumarichhavi60@gmail.com](mailto:kumarichhavi60@gmail.com)**
 
 ---
 
@@ -36,19 +47,15 @@ Passionate about building scalable web applications, solving real-world problems
 <p align="left">
 
 <a href="https://www.linkedin.com/in/chhavi-kumari-78912a264/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/SQIoWb6CQI/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+<a href="https://github.com/cseth" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:kumarichhavi60@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -57,31 +64,35 @@ Passionate about building scalable web applications, solving real-world problems
 
 # 🛠️ Languages & Tools
 
+### 💻 Programming Languages
+
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" style="margin:12px;"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" style="margin:12px;"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" style="margin:12px;"/>
+### 🌐 Web Development
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" style="margin:12px;"/>
+<p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" style="margin:12px;"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" style="margin:12px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" style="margin:12px;"/>
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </p>
 
@@ -90,52 +101,137 @@ Passionate about building scalable web applications, solving real-world problems
 # 🚀 Featured Projects
 
 ## 🛒 CampusTrade
-A full-stack student to student campus marketplace where students can **Buy, Sell, Rent & Exchange** products within a limited geographical range. Features include authentication, product listings, wishlist, chat, and location-based filtering.
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB •bootstrap 
+A full-stack student-to-student campus marketplace where students can **Buy, Sell, Rent & Exchange** products within a limited geographical range.
+
+### ✨ Features
+
+- 🔐 User Authentication
+- 📦 Product Listings
+- ❤️ Wishlist
+- 💬 Chat
+- 📍 Location-based Filtering
+- 🔎 Product Search
+
+### 🛠️ Tech Stack
+
+**React.js • Node.js • Express.js • MongoDB • Bootstrap**
 
 ---
 
 ## 🗣️ Text-to-Speech Converter
-A responsive web application that converts written text into natural speech using the Web Speech API with support for multiple voices and languages.
 
-**Tech Stack:** Python,Matplotlib
+A responsive web application that converts written text into natural speech using the **Web Speech API**, with support for multiple voices and languages.
+
+### ✨ Features
+
+- 🔊 Text-to-Speech Conversion
+- 🌐 Multiple Languages
+- 🎙️ Multiple Voices
+- 📱 Responsive Interface
+- ⚡ Simple and User-Friendly UI
+
+### 🛠️ Tech Stack
+
+**HTML • CSS • JavaScript • Web Speech API**
 
 ---
 
 ## 🌐 Zenith Hub
+
 A modern full-stack web platform focused on delivering a clean UI, responsive design, and scalable architecture for a seamless user experience.
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+### 🛠️ Tech Stack
+
+**React.js • Node.js • Express.js • MongoDB**
 
 ---
 
 ## 💼 Portfolio Website
+
 A fully responsive personal portfolio showcasing my projects, technical skills, certifications, and achievements.
 
-**Tech Stack:** HTML • CSS • JavaScript • Bootstrap
+### ✨ Features
+
+- 👩‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Projects
+- 📜 Certifications
+- 🏆 Achievements
+- 📱 Responsive Design
+
+### 🛠️ Tech Stack
+
+**HTML • CSS • JavaScript • Bootstrap**
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ckseth&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckseth&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ckseth&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=cseth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180"
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🔥 GitHub Streak
+
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ckseth&theme=tokyo-night"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=cseth&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+---
+
+# 📈 GitHub Activity Graph
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cseth&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 📌 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build more full-stack MERN projects
+- 💻 Improve Data Structures & Algorithms
+- 🌐 Strengthen Full Stack Development skills
+- 🎨 Improve UI/UX and frontend development
+- 🤝 Contribute to open-source projects
+- 📚 Continuously learn new technologies
 
 ---
 
@@ -144,5 +240,25 @@ A fully responsive personal portfolio showcasing my projects, technical skills, 
 <p align="center">
 
 > **"Turning ideas into real-world applications, one project at a time. 🚀"**
+
+</p>
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=cseth&label=Profile%20Views&color=70a5fd&style=for-the-badge" />
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 💙 Keep Learning • Keep Building • Keep Growing 🚀
 
 </p>
