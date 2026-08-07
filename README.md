@@ -186,8 +186,6 @@ A fully responsive personal portfolio showcasing my projects, technical skills, 
 
 # 🔥 GitHub Streak
 
-# 🔥 GitHub Streak
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=cseth&theme=tokyonight&hide_border=true"
@@ -197,8 +195,6 @@ A fully responsive personal portfolio showcasing my projects, technical skills, 
 ---
 
 # 📈 GitHub Activity Graph
-
-# 📈 GitHub Activity
 
 <p align="center">
   <img 
