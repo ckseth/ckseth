@@ -50,7 +50,7 @@ Passionate about building scalable web applications, solving real-world problems
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/cseth" target="_blank">
+<a href="https://github.com/ckseth" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -166,35 +166,15 @@ A fully responsive personal portfolio showcasing my projects, technical skills, 
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Streak
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=ckseth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-height="180"
-alt="GitHub Stats"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckseth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="180"
-alt="Top Languages"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ckseth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckseth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
-<img 
-src="https://streak-stats.demolab.com?user=ckseth&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
+  <img src="https://streak-stats.demolab.com/?user=ckseth&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -202,7 +182,7 @@ alt="GitHub Streak"
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckseth&theme=tokyo-night" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckseth&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -246,7 +226,7 @@ alt="GitHub Streak"
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=cseth&label=Profile%20Views&color=70a5fd&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ckseth&label=Profile%20Views&color=70a5fd&style=for-the-badge" />
 
 </p>
 
