@@ -202,18 +202,8 @@ alt="GitHub Streak"
 # 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=ckseth&theme=tokyo-night&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckseth&theme=tokyo-night" width="100%" alt="GitHub Activity Graph" />
 </p>
-
----
-
-
 
 ---
 
