@@ -166,28 +166,17 @@ A fully responsive personal portfolio showcasing my projects, technical skills, 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ckseth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
-    alt="Chhavi's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckseth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    alt="Chhavi's Top Languages"
-    height="180"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ckseth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckseth&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ckseth&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="Chhavi's GitHub Streak"
-  />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ckseth&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
