@@ -5,7 +5,7 @@ MERN Stack Developer
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.
+Passionate about building scalable web applications, solving real-world problems, and continuously learning new tools and technologies.
 </p>
 
 <p align="center">
