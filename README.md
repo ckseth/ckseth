@@ -1,226 +1,243 @@
-# 👋 Hi, I'm Chhavi Kumari
+<h1 align="center">Hii👋, I'm Chhavi Kumari</h1>
 
-<h3 align="center">💻 MCA Student | MERN Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">
+MERN Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+at+Chandigarh+University;Full+Stack+Web+Developer;Exploring+AI+and+Machine+Learning;Building+Ideas+into+Real+World+Solutions+🚀" />
+Eager and Passionate about building scalable web applications, solving real-world problems, and continuously learning new tools and technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ckseth&label=Profile%20Views&color=70A5FD&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ckseth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-3FA037?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-blue?style=for-the-badge"/>
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at Chandigarh University.
-- 💻 Interested in **Full Stack Development, AI/ML and Software Development**.
-- 🌱 Currently exploring **React.js, Node.js, Express.js and MongoDB**.
-- 🤖 Working on projects involving intelligent document analysis and machine learning.
-- 🧩 Enjoy solving programming problems and developing practical solutions.
-- 🚀 Believe in continuous learning, creativity and building things that make a difference.
-- 📫 Email: **kumarichhavi60@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chhavi-kumari-78912a264/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ckseth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:kumarichhavi60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://img.shields.io/badge/MERN-Stack-3FA037?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem-Solver-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+# 👩‍💻 Hi, I'm Chhavi Kumari
+
+### 💻 MCA Student | Full Stack Developer | Tech Enthusiast
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+at+Chandigarh+University;Full+Stack+Developer;MERN+Stack+Learner;Building+Ideas+into+Real+World+Projects+🚀" />
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at **Chandigarh University**
+- 🌱 Currently learning **MERN Stack, React.js, Node.js, Express.js & MongoDB**
+- 💻 Interested in **Full Stack Development, UI/UX Design, and Problem Solving**
+- 📚 Passionate about building practical projects and continuously learning new technologies
+- 🚀 I enjoy turning ideas into functional and user-friendly applications
+- 📫 Reach me at **[kumarichhavi60@gmail.com](mailto:kumarichhavi60@gmail.com)**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/chhavi-kumari-78912a264/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ckseth" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:kumarichhavi60@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
 </p>
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+### 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express" />
+
 </p>
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+### 🗄️ Database & Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </p>
 
-### 🗄️ Database Management
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+### 🧰 Tools & Technologies
 
-### 🤖 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" />
-</p>
+<p align="left">
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-**Additional Tools:** Google Colab, Tableau, Power BI, MySQL Workbench.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔍 TrustLens AI – Intelligent Document Verification & Analysis Platform
+## 🛒 CampusTrade
 
-An AI-powered document verification platform designed to analyze documents, identify suspicious content and highlight potential risks.
+A full-stack student-to-student campus marketplace where students can **Buy, Sell, Rent & Exchange** products within a limited geographical range.
 
-**Key Features**
-- 📄 Document and image analysis
-- 🔍 Suspicious content and risky clause detection
-- 🔗 External hyperlink and contact validation
-- ⚖️ Document comparison
-- 🔐 Secure authentication and user management
-- 🛡️ Personally Identifiable Information (PII) redaction
+### ✨ Features
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, AI Integration.
-
-### 🛒 CampusTrade – Campus Marketplace
-
-A full-stack student-to-student marketplace that allows students to buy, sell, rent and exchange products within a campus community.
-
-**Key Features**
 - 🔐 User Authentication
 - 📦 Product Listings
 - ❤️ Wishlist
-- 💬 Chat Functionality
+- 💬 Chat
 - 📍 Location-based Filtering
 - 🔎 Product Search
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Bootstrap.
+### 🛠️ Tech Stack
 
-🔗 [View Repository](https://github.com/ckseth/CampusTrade)
+**React.js • Node.js • Express.js • MongoDB • Bootstrap**
 
-### 📩 Spam Detection with Multimodal Input Support
+---
 
-A machine learning research project comparing different classification algorithms for spam detection, with support for text and document/image inputs at the application level.
+## 🗣️ Text-to-Speech Converter
 
-**Key Features**
-- 📊 Comparison of multiple ML algorithms
-- 🧠 TF-IDF feature extraction
-- 📩 Spam and Ham classification
-- 🖼️ Multimodal input support through OCR
-- 📈 Model evaluation using accuracy, precision, recall and F1-score
+A responsive web application that converts written text into natural speech using the **Web Speech API**, with support for multiple voices and languages.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, NLP, TF-IDF, OCR.
+### ✨ Features
 
-🔗 [View Research Repository](https://github.com/ckseth/Comparison-of-Machine-Learning-Algorithms-for-Spam-Detection-with-Multimodal-Input-Support)
-
-### 🗣️ Text-to-Speech Converter
-
-A responsive web application that transforms written text into speech using the Web Speech API.
-
-**Key Features**
 - 🔊 Text-to-Speech Conversion
 - 🌐 Multiple Languages
 - 🎙️ Multiple Voices
 - 📱 Responsive Interface
+- ⚡ Simple and User-Friendly UI
 
-**Tech Stack:** HTML, CSS, JavaScript, Web Speech API.
+### 🛠️ Tech Stack
 
-### 🌐 Zenith Hub
-
-A modern full-stack web platform focused on clean UI, responsive design and scalable application architecture.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB.
-
-### 💼 Personal Portfolio Website
-
-A responsive portfolio showcasing technical skills, projects, certifications and achievements.
-
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
+**HTML • CSS • JavaScript • Web Speech API**
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Zenith Hub
+
+A modern full-stack web platform focused on delivering a clean UI, responsive design, and scalable architecture for a seamless user experience.
+
+### 🛠️ Tech Stack
+
+**React.js • Node.js • Express.js • MongoDB**
+
+---
+
+## 💼 Portfolio Website
+
+A fully responsive personal portfolio showcasing my projects, technical skills, certifications, and achievements.
+
+### ✨ Features
+
+- 👩‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Projects
+- 📜 Certifications
+- 🏆 Achievements
+- 📱 Responsive Design
+
+### 🛠️ Tech Stack
+
+**HTML • CSS • JavaScript • Bootstrap**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ckseth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckseth&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 GitHub Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ckseth&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ckseth&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Currently Exploring
-
-- 🌐 Advanced MERN Stack Development
-- ⚛️ React.js and modern frontend development
-- ⚙️ Backend development and REST APIs
-- 🤖 Machine Learning and NLP
-- 🧠 AI-powered application development
-- 📊 Data Analytics and Visualization
-- 💡 Data Structures and Algorithms
-
----
-
-## 📌 2026 Goals
-
-- 🚀 Develop more real-world full-stack applications.
-- 🧠 Strengthen AI/ML and problem-solving skills.
-- 💻 Improve Data Structures and Algorithms.
-- 🌐 Build scalable and user-friendly applications.
-- 🤝 Contribute to open-source projects.
-- 📚 Explore emerging technologies and keep learning.
-
----
-
-## 🤝 Open to Opportunities
-
-I'm interested in:
-- Software Development Internships
-- MERN Stack Development Opportunities
-- AI/ML Projects and Collaborations
-- Open-Source Contributions
-
-Feel free to connect, collaborate or discuss interesting ideas!
-
----
-
-## 💡 Developer Quote
+# 📈 GitHub Activity Graph
 
 <p align="center">
-  <i>"Great things are built one line of code, one idea and one learning experience at a time."</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckseth&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+# 📌 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build more full-stack MERN projects
+- 💻 Improve Data Structures & Algorithms
+- 🌐 Strengthen Full Stack Development skills
+- 🎨 Improve UI/UX and frontend development
+- 🤝 Contribute to open-source projects
+- 📚 Continuously learn new technologies
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+> **"Turning ideas into real-world applications, one project at a time. 🚀"**
+
+</p>
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ckseth&label=Profile%20Views&color=70a5fd&style=for-the-badge" />
+
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my GitHub profile!</b>
-  <br/>
-  💙 Keep Learning • Keep Building • Keep Growing 🚀
+
+### ⭐ Thanks for visiting my profile!
+
+### 💙 Keep Learning • Keep Building • Keep Growing 🚀
+
 </p>
